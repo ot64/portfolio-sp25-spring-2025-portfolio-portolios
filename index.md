@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Olivia Tolliver>
 ---
 
 ## About Me
@@ -9,8 +9,12 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a mechanical engineering student at Cornell University with a minor in computer science. I'm passionate about designing thoughtful, functional systems that solve real world problems.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Most recently, in my Introduction to Mechanical Design course (MAE 2250), I worked with a team to design a dropdown shelf aimed at helping college students and others in small living spaces access high storage. The shelf promotws vertical storage in a practical, space-saving way and was designed with both accessibility and manufacturability in mind. Projects liek this fuel my itnerest in creating mechanical systems that respond to everyday needs.
+
+Outside the classroom, I'm a member of Cornell Mars Rover (CMR) engineering project team, where we build a multidisciplinary rover platform for simulated planetary exploration. I am on the AstroTech mechanical subteam wehere I contribute to mechanical and software-integrated systems that support tasks like scientific analysis and remote operation. In research, I am helping optimize a wearable pneumatic turbine sysem for energy harveting from human motion, focusing on casing fabrication, turbine-blade design, and textile integration for real-world durability.
+
+Beyond physical design, I have been exploring app development, designing and building mobile tools to solve problems I care about. I enjoy blending engineering and creativity, and I am always excited to learn, iterate, and bring ideas to life.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

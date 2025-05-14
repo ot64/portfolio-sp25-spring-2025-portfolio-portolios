@@ -1,16 +1,16 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Olivia Tolliver - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Resume - Olivia Tolliver.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ot64@cornell.edu](mailto:ot64@cornell.edu) | | | **Phone:** 404 803 6880
 
----
+<!-- ---
 
 #### Objective
 Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
@@ -71,4 +71,4 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### References
 Available upon request.
 
----
+--- -->
